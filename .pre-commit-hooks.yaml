@@ -1,0 +1,7 @@
+- id: pycln
+  name: pycln
+  description: "Removes unused imports"
+  entry: pycln
+  language: python
+  language_version: python3
+  types: [python]
